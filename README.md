@@ -24,5 +24,4 @@
 *   **Email:** [Напишите мне](mailto:rishat.niiazov@gmail.com)
 
 ---
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?CodeeCod=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeeCod)](https://github.com/anuraghazra/github-readme-stats)
