@@ -1,16 +1,28 @@
-## Hi there 👋
+# Ришат Ниязов / Rishat Niyazov
 
-<!--
-**CodeeCod/CodeeCod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Программист-любитель | 📻 Радиолюбитель
 
-Here are some ideas to get you started:
+Привет! Добро пожаловать на мой GitHub-профиль. Я увлекаюсь программированием, электроникой и радиосвязью. Здесь я храню свои проекты, эксперименты и всё, что мне интересно.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Технологии и инструменты
+
+*   **Языки программирования:** Python, C/C++, JavaScript
+*   **Веб-разработка:** HTML, CSS
+*   **Электроника:** Arduino, ESP32/8266, Raspberry Pi, пайка
+*   **Радио:** QRP, DIY антенны, цифровые виды связи (FT8, JS8Call)
+*   **Программное обеспечение:** Visual Studio Code, KiCad, Logisim
+*   **ОС:** MacOS
+
+---
+
+### 📫 Как со мной связаться
+
+*   **Мой личный сайт:** [www.niiazov.com](https://www.niiazov.com)
+*   **Мой подкаст:** [podcast.niiazov.com](https://podcast.niiazov.com)
+*   **Email:** [Напишите мне](mailto:rishat.niiazov@gmail.com)
+
+---
+
+![Rishat's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeeCod&show_icons=true&theme=radical)
