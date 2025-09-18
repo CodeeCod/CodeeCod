@@ -24,14 +24,3 @@
 *   **Email:** [Напишите мне](mailto:rishat.niiazov@gmail.com)
 
 ---
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" title="GitHub"/>
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeeCod&show_icons=true&theme=react&cache_seconds=10800" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeeCod&layout=compact&hide_border=true&theme=react" alt="Languages Used" />
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeeCod&theme=react-dark" alt="GitHub Activity Graph" />
-</div>
