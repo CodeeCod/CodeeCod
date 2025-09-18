@@ -33,5 +33,5 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeeCod&layout=compact&hide_border=true&theme=react" alt="Languages Used" />
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fCodeeCod&theme=react-dark" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeeCod&theme=react-dark" alt="GitHub Activity Graph" />
 </div>
