@@ -11,7 +11,7 @@
 *   **Языки программирования:** Python, C/C++, JavaScript
 *   **Веб-разработка:** HTML, CSS
 *   **Электроника:** Arduino, ESP32/8266, Raspberry Pi, пайка
-*   **Радио:** QRP, DIY антенны, цифровые виды связи (FT8, JS8Call)
+*   **Радио:** QRP, CW, SSB, DIY антенны
 *   **Программное обеспечение:** Visual Studio Code, KiCad, Logisim
 *   **ОС:** MacOS
 
